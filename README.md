@@ -22,7 +22,7 @@ I'm a computer systems engineering student and a AI/DS enthusiast. 🤖
 ## Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,cpp,go,r,py,tensorflow,pytorch" />
+    <img style="width: 100%;height: auto;" src="https://skillicons.dev/icons?i=git,c,cpp,go,r,py,tensorflow,pytorch"/>
   </a>
 </p>
 
